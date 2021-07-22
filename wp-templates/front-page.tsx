@@ -127,7 +127,7 @@ export default function FrontPage(props: any): JSX.Element {
           id={styles.post_list}
         />
         <CTA
-          title="Questions or comments?"
+          title="Yes I have some questions!"
           buttonText="Join the discussion on GitHub"
           buttonURL="https://github.com/wpengine/headless-framework/discussions"
           headingLevel="h2">
